@@ -5,6 +5,7 @@ credits: https://www.youtube.com/@ITVladik
 28 code line
 
 # How to Install TkLauncher
+#
 **Brasil:**
 
 1. Baixe o Instalador: https://github.com/franciscoeisaac890lindo-afk/TkLauncher/releases/tag/v1.0
@@ -12,6 +13,7 @@ credits: https://www.youtube.com/@ITVladik
 3. Quando abrir o instalador, cole a senha que você copiou
 4. depois faça toda a instalação, pronto você instalou o app
 
+#
 **English:**
 1. Download the installer: https://github.com/franciscoeisaac890lindo-afk/TkLauncher/releases/tag/v1.0
 2. Copy this password: **tklauncher2026**
